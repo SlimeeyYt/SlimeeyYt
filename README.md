@@ -1,4 +1,4 @@
-<h2 align="left">Hey! I'm SlimeeyYt — a developer, gamer, and tech enthusiast who enjoys crafting fun projects and exploring new tools.</h2>
+<h2 align="left">Hey! I'm Aadi Jain — a developer, gamer, and tech enthusiast who enjoys crafting fun projects and making intresting minecraft mods.</h2>
 
 ###
 
