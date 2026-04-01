@@ -10,6 +10,7 @@
 
 <div align="left">
 
+  <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   </a>
@@ -50,6 +51,19 @@
   </a>
   <img width="12" />
 
+  <!-- Build Tools -->
+  <a href="https://gradle.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" />
+  </a>
+  <img width="12" />
+
+  <a href="https://maven.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30" />
+  </a>
+  <img width="12" />
+
+
+  <!-- Tools -->
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
   </a>
@@ -90,41 +104,33 @@
 
 <div align="center">
 
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:aadi999jain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
   <br><br>
 
-  <a href="https://www.curseforge.com/members/YOUR_USERNAME/projects">
-    <img src="https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://modrinth.com/user/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://hangar.papermc.io/YOUR_USERNAME">
+  <a href="https://hangar.papermc.io/SlimeeyStudios">
     <img src="https://img.shields.io/badge/Hangar-2C2F33?logo=paper&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://www.patreon.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://modrinth.com/user/SlimeeyYt">
+    <img src="https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://www.planetminecraft.com/member/YOUR_USERNAME/">
+  <a href="https://www.curseforge.com/members/slimeeyyt/projects">
+    <img src="https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://www.planetminecraft.com/member/slimeeyyt/">
     <img src="https://img.shields.io/badge/PlanetMinecraft-62B47A?logo=minecraft&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://www.spigotmc.org/members/YOUR_USERNAME/">
+  <a href="https://www.patreon.com/c/slimeeystudios/membership">
+    <img src="https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://www.spigotmc.org/members/slimeeystudios.2496989/">
     <img src="https://img.shields.io/badge/SpigotMC-F7A41D?logo=java&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
