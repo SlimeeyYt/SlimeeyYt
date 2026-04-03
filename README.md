@@ -1,4 +1,57 @@
-<h2 align="left">Hey! I'm Aadi Jain — a developer, gamer, and tech enthusiast who enjoys crafting fun projects and making interesting Minecraft mods.</h2>
+<h2 align="left">
+Hey! I'm Aadi Jain — a Minecraft systems developer and a gamer focused on building high-performance, scalable, and deeply customizable gameplay systems.
+</h2>
+
+<p align="left">
+
+🎮 <b>Minecraft Engineering</b><br>
+• Designing and developing advanced plugins & mods with production-level code quality<br>
+• Building complex gameplay systems (combat mechanics, abilities, automation, custom events)<br>
+• Deep understanding of PaperMC, Spigot, and Bukkit internals<br>
+• Experience across Fabric, Forge, and NeoForge modding ecosystems<br>
+• Writing highly configurable systems using YAML/JSON with clean abstraction layers<br><br>
+
+⚙️ <b>Performance & Server Optimization</b><br>
+• Optimizing plugins for low-latency and high player-count environments<br>
+• Async & multithreaded design (Folia-compatible architectures)<br>
+• Efficient event handling, scheduling, and memory usage<br>
+• Profiling, debugging, and eliminating performance bottlenecks<br><br>
+
+🏗️ <b>Architecture & System Design</b><br>
+• Modular plugin architecture with clear separation of concerns<br>
+• Scalable backend patterns for maintainable long-term projects<br>
+• Event-driven and service-based design patterns<br>
+• Reusable frameworks and abstraction layers for rapid development<br><br>
+
+🌐 <b>Full-Stack Development</b><br>
+• Frontend: React + TypeScript (dashboards, tools, interfaces)<br>
+• Secure systems using JWT and OIDC-based authentication<br>
+• API-driven architecture connecting Minecraft servers with web platforms<br><br>
+
+🔗 <b>Network & Ecosystem Knowledge</b><br>
+• Proxy systems: Velocity, Waterfall, BungeeCord concepts<br>
+• Cross-server communication & distributed systems basics<br>
+• Plugin compatibility across Paper ecosystem and forks (Folia, Purpur)<br><br>
+
+🧩 <b>Build Systems & Tooling</b><br>
+• Gradle (advanced builds, modding environments)<br>
+• Maven (plugin lifecycle & dependency management)<br>
+• Git & GitHub (version control, CI/CD workflows)<br>
+• IntelliJ IDEA & VS Code for efficient development workflows<br><br>
+
+🚀 <b>Project Distribution & Ecosystem Presence</b><br>
+• Publishing and maintaining projects on Modrinth, Hangar, and CurseForge<br>
+• Writing structured documentation, changelogs, and developer-friendly configs<br>
+• Building a recognizable development identity under <b>Slimeey Studios</b><br><br>
+
+🧠 <b>Focus & Growth</b><br>
+• Advanced plugin architecture & reusable frameworks<br>
+• High-performance server-side systems<br>
+• Secure authentication & backend integrations<br>
+• Continuous learning and pushing technical boundaries in Minecraft development<br>
+
+</p>
+
 
 ###
 
